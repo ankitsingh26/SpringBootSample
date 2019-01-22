@@ -1,4 +1,4 @@
-package Sample;
+package com.oyo.sample;
 
 import org.springframework.stereotype.Service;
 

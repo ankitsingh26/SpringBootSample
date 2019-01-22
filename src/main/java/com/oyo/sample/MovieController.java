@@ -1,4 +1,4 @@
-package Sample;
+package com.oyo.sample;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

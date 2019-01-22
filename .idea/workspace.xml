@@ -256,7 +256,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548165454623" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548191847212" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,7 +272,7 @@
   </component>
   <component name="RunManager">
     <configuration name="DemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample.DemoApp" />
+      <option name="MAIN_CLASS_NAME" value="com.oyo.sample.DemoApp" />
       <module name="DemoStarter" />
       <extension name="coverage">
         <pattern>
