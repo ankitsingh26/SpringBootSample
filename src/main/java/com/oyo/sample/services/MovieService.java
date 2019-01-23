@@ -1,5 +1,6 @@
-package com.oyo.sample;
+package com.oyo.sample.services;
 
+import com.oyo.sample.models.Movie;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

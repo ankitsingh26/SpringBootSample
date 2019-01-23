@@ -1,5 +1,7 @@
-package com.oyo.sample;
+package com.oyo.sample.controller;
 
+import com.oyo.sample.models.Theatre;
+import com.oyo.sample.services.TheatreService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

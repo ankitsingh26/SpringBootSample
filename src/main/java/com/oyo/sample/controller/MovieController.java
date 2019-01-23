@@ -1,5 +1,7 @@
-package com.oyo.sample;
+package com.oyo.sample.controller;
 
+import com.oyo.sample.services.MovieService;
+import com.oyo.sample.models.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

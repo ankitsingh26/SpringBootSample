@@ -1,21 +1,22 @@
-package com.oyo.sample;
+package com.oyo.sample.models;
 
-public class Theatre {
+public class Movie {
 
     private String id;
     private String name;
-    private String city;
+    private String rYear;
 
-    public Theatre(){
+    public Movie(){
 
     }
 
-    public Theatre(String id,String name,String city){
+    public Movie(String id,String name,String rYear){
         super();
         this.id=id;
         this.name=name;
-        this.city=city;
+        this.rYear=rYear;
     }
+
     public String getId() {
         return id;
     }
@@ -32,11 +33,11 @@ public class Theatre {
         this.name = name;
     }
 
-    public String getCity() {
-        return city;
+    public String getrYear() {
+        return rYear;
     }
 
-    public void setCity(String city) {
-        this.city = city;
+    public void setrYear(String rYear) {
+        this.rYear = rYear;
     }
 }
